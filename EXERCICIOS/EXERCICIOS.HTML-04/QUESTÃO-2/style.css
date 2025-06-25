@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+}
+p{
+    background-color: greenyellow;
+}
+
+#jardam{
+    width: 50%;
+    height: 500px;
+    background-image:url(https://www.churchofjesuschrist.org/imgs/17c3647553b811ec9f5aeeeeac1e05a8856e1cb7/full/%21500%2C/0/default);
+    background-repeat: no-repeat;
+
+}   
+
+#jardam2{
+    width: 90%;
+    height: 2000px;   
+    background-image:url(https://www.exoticcarhacks.com/wp-content/uploads/2024/04/RkbSaAWg.jpeg);
+    background-repeat: repeat-y ;
+}
+
+#jardam3{
+    background-image: url(https://play-lh.googleusercontent.com/rpWjr-6s3EYPXUD7IDDB1fb0hxr75C76mIYVHpAILvzyPZwmQLZasAhitE0P3el8Dw);
+   width: 50%;
+    height: 500px;
+     background-repeat: no-repeat;
+
+}
