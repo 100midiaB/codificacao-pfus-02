@@ -27,3 +27,21 @@ p{
      background-repeat: no-repeat;
 
 }
+
+#jardam4{
+    background-image: url(https://assets.goal.com/images/v3/blt82ad9287a31a3e9a/70f711b2a79246d7397578e6171158bca526c036.jpg?auto=webp&format=pjpg&width=3840&quality=60);
+    width: 100%;
+    height: 1000px;
+     background-repeat: no-repeat;
+   background-position: center;
+}
+
+#jardam5{
+    background-color: yellow;
+width: 100%;
+    height: 1000px;
+    background-image: url(https://caras.com.br/media/_versions/2022-dezembro/sergio-loroza_widelg.jpg);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-attachment: scroll;
+    }
