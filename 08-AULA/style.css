@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Truculenta:opsz,wght@12..72,100..900&display=swap');
+
+body{
+    background-color: rgb(236, 8, 8);
+    color: white;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+p{
+    background-color: beige;
+    color: black;
+     padding: 5px;
+}
+
+#na-direita{
+    text-align: right;
+}
+
+#na-esquerda{
+    text-align: left;
+}
+
+#no-Centro{
+    text-align: center;
+}
+
+#justificado{
+    text-align: justify;
+}
+
+#minusculo{
+        text-transform: lowercase;
+}
+
+#maiusculo{
+    text-transform: uppercase;
+}
+
+#capitalizado{
+    text-transform: capitalize;
+}
+
+h1{
+    font-size: 80px;
+    font-weight: 400;
+    text-shadow: 10px 5px blueviolet;
+}
+
+#decorado{
+    text-decoration: overline underline;
+}
+
+#outra-fonte{
+    font-family: Impact, sans-serif;
+    color: blueviolet;
+}
+
+#fonte-google{
+     font-family: "Truculenta", sans-serif;
+}
+@font-face{
+ font-family: 'sevillana';
+ src: url(./FONTES/Sevillana-Regular.ttf);
+}
+
+#fonte-personalizada{
+  font-family: 'sevillana';
+  font-size: 50px;
+}

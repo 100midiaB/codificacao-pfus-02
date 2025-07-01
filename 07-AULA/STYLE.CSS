@@ -1,0 +1,26 @@
+body{
+   background-color: honeydew;
+   padding: 0px;
+   margin: 0px;
+   text-align: center;
+}
+
+#principal{
+    background-color: brown;
+    background-image: linear-gradient(red 10%,white 60%,black);
+   background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+    #secundario{
+        width: 90%;
+        height: 2000px;
+         margin: auto;
+         background-color: aqua;
+         background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDs3pL0Fg9qWcMGYZ7dsiMr4uTlp2ddw84iA&s);
+         background-size: auto;
+         background-repeat: repeat-x;
+         background-position: 50%;
+         background-attachment: fixed,;
+    }
